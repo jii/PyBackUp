@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # zalohovaci software by jii 23.09.2020
-#http://sys.ostroh.cz/backupadd/?cmd=cmd test&log=log test&pc=pc test
+#http://ip/backupadd/?cmd=cmd test&log=log test&pc=pc test
 # jméno PC nesmí mít mezeru
 # https://www.geeksforgeeks.org/working-zip-files-python/
 # přidej zipovaní
